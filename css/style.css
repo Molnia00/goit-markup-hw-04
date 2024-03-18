@@ -150,6 +150,7 @@ body {
 /* =========== /main ========== */
 /* ====== /hero ====== */
 .hero-section {
+    background-image: url(/images/hero\ image\ \(1\).jpg);
     background: #2e2f42;
     padding: 188px 0;
 }
@@ -288,11 +289,12 @@ body {
 .portfolio {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
     margin-bottom: 72px;
+    color: #2e2f42;
 }
 
 .port-headline {

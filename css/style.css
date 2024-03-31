@@ -362,6 +362,7 @@ position: absolute;
     height: 40px;
     border-radius: 50%;
     background: #4d5ae5;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .social-mad-link:hover,
@@ -375,7 +376,7 @@ position: absolute;
 }
 
 .svg{
-    fill: #fff;
+    fill: #f4f4f4;
 }
 /* ====== /portfolio ====== */
 .sec-portfolio {

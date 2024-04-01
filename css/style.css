@@ -345,7 +345,6 @@ position: absolute;
     gap: 24px;
     flex-shrink: 0;
     align-self: flex-end;
-    justify-content:center ;
 }
 
 .social.media.icon{
@@ -377,7 +376,7 @@ position: absolute;
 }
 
 .svg{
-    fill: #f4f4f4;
+    fill: #f4f4fd;
 }
 /* ====== /portfolio ====== */
 .sec-portfolio {

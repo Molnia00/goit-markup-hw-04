@@ -444,6 +444,7 @@ overflow: hidden;
 }
 
  .Banking-para{
+    position: absolute;
     top: 0;
  }
 

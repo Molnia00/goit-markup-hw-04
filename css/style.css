@@ -503,6 +503,12 @@ position: absolute;
     color: #f4f4fd;
 }
 
-
-
+.foot-con{
+    display: flex;
+    align-items: baseline;
+}
+.contai-foot{
+    margin-right: 120px;
+    
+}
 /* =========== /footer ========== */

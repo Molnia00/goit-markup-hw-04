@@ -520,7 +520,7 @@ position: absolute;
     margin-bottom: 16px;
 }
 
-.social-footer{
+.social-footer-ul{
    display: flex;
    gap: 16px; 
 }

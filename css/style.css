@@ -424,7 +424,7 @@ position: absolute;
     row-gap: 48px;
 }
 
-.portfolio-list:hover{
+.portfolio-li:hover portfolio-para{
     transform: translateY(0%);
 }
 

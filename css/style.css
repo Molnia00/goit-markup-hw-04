@@ -424,7 +424,7 @@ position: absolute;
     row-gap: 48px;
 }
 
-.portfolio-li:hover banking-para{
+.portfolio-li:hover .banking-para{
     transform: translateY(0%);
 }
 
